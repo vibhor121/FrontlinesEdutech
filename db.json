@@ -1,0 +1,230 @@
+{
+  "companies": [
+    {
+      "id": 1,
+      "name": "TechCorp Solutions",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employees": 1500,
+      "founded": 2010,
+      "description": "Leading provider of cloud-based enterprise solutions"
+    },
+    {
+      "id": 2,
+      "name": "Global Finance Inc",
+      "industry": "Finance",
+      "location": "New York, NY",
+      "employees": 3200,
+      "founded": 1995,
+      "description": "International financial services and investment banking"
+    },
+    {
+      "id": 3,
+      "name": "HealthPlus Medical",
+      "industry": "Healthcare",
+      "location": "Boston, MA",
+      "employees": 850,
+      "founded": 2015,
+      "description": "Innovative healthcare technology and telemedicine platform"
+    },
+    {
+      "id": 4,
+      "name": "EcoEnergy Systems",
+      "industry": "Energy",
+      "location": "Austin, TX",
+      "employees": 620,
+      "founded": 2012,
+      "description": "Renewable energy solutions and solar panel manufacturing"
+    },
+    {
+      "id": 5,
+      "name": "FoodDelight Restaurants",
+      "industry": "Food & Beverage",
+      "location": "Chicago, IL",
+      "employees": 2100,
+      "founded": 2008,
+      "description": "Fast-casual restaurant chain with organic ingredients"
+    },
+    {
+      "id": 6,
+      "name": "AutoDrive Technologies",
+      "industry": "Automotive",
+      "location": "Detroit, MI",
+      "employees": 4500,
+      "founded": 2005,
+      "description": "Autonomous vehicle systems and electric car manufacturing"
+    },
+    {
+      "id": 7,
+      "name": "EduLearn Platform",
+      "industry": "Education",
+      "location": "Seattle, WA",
+      "employees": 780,
+      "founded": 2016,
+      "description": "Online learning platform with AI-powered personalization"
+    },
+    {
+      "id": 8,
+      "name": "StyleHub Fashion",
+      "industry": "Retail",
+      "location": "Los Angeles, CA",
+      "employees": 1200,
+      "founded": 2013,
+      "description": "E-commerce fashion retailer with sustainable practices"
+    },
+    {
+      "id": 9,
+      "name": "CloudNet Infrastructure",
+      "industry": "Technology",
+      "location": "San Francisco, CA",
+      "employees": 950,
+      "founded": 2014,
+      "description": "Cloud infrastructure and DevOps automation tools"
+    },
+    {
+      "id": 10,
+      "name": "SecureBank Digital",
+      "industry": "Finance",
+      "location": "Charlotte, NC",
+      "employees": 2800,
+      "founded": 2000,
+      "description": "Digital banking and fintech solutions"
+    },
+    {
+      "id": 11,
+      "name": "BioPharm Research",
+      "industry": "Healthcare",
+      "location": "San Diego, CA",
+      "employees": 1400,
+      "founded": 2007,
+      "description": "Pharmaceutical research and biotechnology"
+    },
+    {
+      "id": 12,
+      "name": "GreenPower Utilities",
+      "industry": "Energy",
+      "location": "Denver, CO",
+      "employees": 1100,
+      "founded": 2011,
+      "description": "Wind and hydroelectric power generation"
+    },
+    {
+      "id": 13,
+      "name": "TastyBites Delivery",
+      "industry": "Food & Beverage",
+      "location": "Miami, FL",
+      "employees": 340,
+      "founded": 2018,
+      "description": "Food delivery app with local restaurant partnerships"
+    },
+    {
+      "id": 14,
+      "name": "SmartCar Electronics",
+      "industry": "Automotive",
+      "location": "San Jose, CA",
+      "employees": 890,
+      "founded": 2017,
+      "description": "Connected car technology and infotainment systems"
+    },
+    {
+      "id": 15,
+      "name": "BrightMinds Academy",
+      "industry": "Education",
+      "location": "Philadelphia, PA",
+      "employees": 450,
+      "founded": 2019,
+      "description": "STEM-focused online courses and certification programs"
+    },
+    {
+      "id": 16,
+      "name": "UrbanWear Clothing",
+      "industry": "Retail",
+      "location": "Portland, OR",
+      "employees": 680,
+      "founded": 2015,
+      "description": "Urban streetwear and lifestyle brand"
+    },
+    {
+      "id": 17,
+      "name": "DataStream Analytics",
+      "industry": "Technology",
+      "location": "Austin, TX",
+      "employees": 540,
+      "founded": 2016,
+      "description": "Big data analytics and business intelligence platforms"
+    },
+    {
+      "id": 18,
+      "name": "WealthWise Investments",
+      "industry": "Finance",
+      "location": "Boston, MA",
+      "employees": 720,
+      "founded": 2014,
+      "description": "Robo-advisory and wealth management services"
+    },
+    {
+      "id": 19,
+      "name": "VitalCare Clinics",
+      "industry": "Healthcare",
+      "location": "Houston, TX",
+      "employees": 1950,
+      "founded": 2009,
+      "description": "Network of urgent care clinics and primary care centers"
+    },
+    {
+      "id": 20,
+      "name": "SolarMax Energy",
+      "industry": "Energy",
+      "location": "Phoenix, AZ",
+      "employees": 480,
+      "founded": 2013,
+      "description": "Residential and commercial solar panel installation"
+    },
+    {
+      "id": 21,
+      "name": "CoffeeHub Cafes",
+      "industry": "Food & Beverage",
+      "location": "Seattle, WA",
+      "employees": 1600,
+      "founded": 2006,
+      "description": "Specialty coffee chain with ethically sourced beans"
+    },
+    {
+      "id": 22,
+      "name": "ElectroMotors Inc",
+      "industry": "Automotive",
+      "location": "Raleigh, NC",
+      "employees": 1350,
+      "founded": 2012,
+      "description": "Electric motorcycle and scooter manufacturer"
+    },
+    {
+      "id": 23,
+      "name": "SkillBoost Training",
+      "industry": "Education",
+      "location": "Atlanta, GA",
+      "employees": 290,
+      "founded": 2020,
+      "description": "Corporate training and professional development courses"
+    },
+    {
+      "id": 24,
+      "name": "HomeStyle Furniture",
+      "industry": "Retail",
+      "location": "Dallas, TX",
+      "employees": 980,
+      "founded": 2010,
+      "description": "Modern furniture and home decor retailer"
+    },
+    {
+      "id": 25,
+      "name": "CyberShield Security",
+      "industry": "Technology",
+      "location": "Washington, DC",
+      "employees": 670,
+      "founded": 2015,
+      "description": "Cybersecurity solutions and threat intelligence"
+    }
+  ]
+}
+
