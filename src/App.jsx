@@ -7,7 +7,7 @@ import Pagination from './components/Pagination';
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorMessage from './components/ErrorMessage';
 
-const API_URL = 'http://localhost:3000/companies';
+const API_URL = 'https://frontlinesedutech-ppeu.onrender.com/companies';
 
 function App() {
   const [companies, setCompanies] = useState([]);
